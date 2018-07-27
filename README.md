@@ -1,5 +1,5 @@
 # Sofascore_scraper
-An easy way to collect football data.
+An easy way to collect football data from [Sofascore](www.sofascore.com)
 
 # Premier scraper.py
 This script will create a csv file with Premier league matches links. You must to use this csv file (called hrefs.csv) in the next script.
